@@ -1,1 +1,7 @@
-Ez egy szöveg.
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<p>Ez egy szöveg.</p>
+</body>
+</html>
